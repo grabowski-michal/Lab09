@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <array name="pictures">
+        <item>@drawable/apple</item>
+        <item>@drawable/banana</item>
+        <item>@drawable/cherry</item>
+        <item>@drawable/grape</item>
+        <item>@drawable/kiwifruit</item>
+        <item>@drawable/orange</item>
+        <item>@drawable/pear</item>
+        <item>@drawable/plum</item>
+        <item>@drawable/raspberry</item>
+        <item>@drawable/strawberry</item>
+    </array>
+
+    <string-array name="names">
+        <item>Jabłko</item>
+        <item>Banan</item>
+        <item>Wiśnie"</item>
+        <item>Winogrona</item>
+        <item>Kiwi</item>
+        <item>Pomarańcze</item>
+        <item>Gruszka</item>
+        <item>Śliwka</item>
+        <item>Maliny</item>
+        <item>Truskawki</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item> "Jabłka chronią przed zawałem i zaparciami. Wzmacnają zęby i ułatwiają odchudzanie." </item>
+        <item> "Banany obniżają ciśnienie i poziom cholesterolu. Zmniejszają ryzyko rozwoju nowotworu nerki."</item>
+        <item> "Wiśnie mają dobroczynny wpływ na serce. Ułatwiają zasypiane. Neutralizują wolne rodniki." </item>
+        <item> "Winogrona zabijają komórki rakowe (w warunkach laboratoryjnych). Leczą skaleczenia. Poprawiają humor (w postaci wina)." </item>
+        <item> "Kiwi wpływają korzystnie na wzrok. Obniżają ciśnienie tętnicze." </item>
+        <item> "Pomarańcze mają właściwości uspakajające i przeciwdepresyjne. Działają przeciwbakteryjnie." </item>
+        <item> "Gruszki wspomagają tarczycę. Poprawiają pracę mózgu. Zapobiegają udarowi mózgu." </item>
+        <item> "Śliwki regulują trawienie. Zapobiegają zaparciom" </item>
+        <item> "Maliny i ich przetwory są środkiem przeciwgorączkowym i przeciwzapalnym" </item>
+        <item> "Truskawki poprawiają trawienie i przemianę materii. Mają działanie przeciwzapalne. Skuteczne w leczeniu zatok." </item>
+    </string-array>
+
+</resources>
